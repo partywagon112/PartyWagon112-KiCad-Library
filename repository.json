@@ -2,16 +2,16 @@
     "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
     "maintainer": {
         "contact": {
-            "web": "https://www.kicad.org/about/contact-us/"
+            "web": "https://github.com/partywagon112/partywagon112-kicad-pcm-repository/tree/main"
         },
-        "name": "KiCad team"
+        "name": "partywagon112"
     },
-    "name": "KiCad official repository",
+    "name": "PartyWagon112 PCM Repository",
     "packages": {
         "sha256": "4e9990717c0746a40efc473d9ec9527cacae37c11c73b6e95ba9ba2930a5711d",
         "update_time_utc": "2024-03-01 11:01:42",
         "update_timestamp": 1709290902,
-        "url": "https://gitlab.com/kicad/addons/repository/-/raw/main/packages.json"
+        "url": "https://raw.githubusercontent.com/partywagon112/partywagon112-kicad-pcm-repository/main/packages.json"
     },
     "resources": {
         "sha256": "025ef445a3a332c6f277134f76f87870c13d2d601628c0280b40ac0172e94deb",

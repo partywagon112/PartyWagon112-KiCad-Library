@@ -4,25 +4,25 @@
             "$schema": "https://go.kicad.org/pcm/schemas/v1",
             "author": {
                 "contact": {
-                    "web": "https://github.com/pointhi/kicad-color-schemes/"
+                    "web": "https://github.com/partywagon112/partywagon112-kicad-pcm-repository"
                 },
-                "name": "Thomas Pointhuber"
+                "name": "Patrick Curtain"
             },
-            "description": "Based on Solarized colorscheme from Ethan Schoonover",
-            "description_full": "Based on Solarized colorscheme from Ethan Schoonover.\nSee https://ethanschoonover.com/solarized/ for more details.",
+            "description": "Custom Kicad Library Components",
+            "description_full": "A collection of custom KiCad library components to bridge the gaps where things are missing.",
             "identifier": "com.github.pointhi.kicad-color-schemes.solarized-light",
             "license": "CC0-1.0",
             "maintainer": {
                 "contact": {
-                    "web": "https://github.com/pointhi/kicad-color-schemes/"
+                    "web": "https://github.com/partywagon112/partywagon112-kicad-pcm-repository"
                 },
-                "name": "Thomas Pointhuber"
+                "name": "Patrick Curtain"
             },
-            "name": "Solarized Light Theme",
+            "name": "partywagon112-custom-library",
             "resources": {
-                "Github": "https://github.com/pointhi/kicad-color-schemes"
+                "Github": "https://github.com/partywagon112/partywagon112-kicad-pcm-repository"
             },
-            "type": "colortheme",
+            "type": "library",
             "versions": [
                 {
                     "download_sha256": "0be21e4d43066a1870a88eba7b627a4dac1c2fec20506dd50c78755200b412a3",
@@ -35,4 +35,5 @@
                 }
             ]
         }
+   ]
 }
