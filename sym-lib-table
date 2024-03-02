@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Microcontrollers")(type "KiCad")(uri "${KIPRJMOD}/custom-library/symbols/Microcontrollers.kicad_sym")(options "")(descr ""))
+  (lib (name "Regulators")(type "KiCad")(uri "${KIPRJMOD}/custom-library/symbols/Regulators.kicad_sym")(options "")(descr ""))
+)

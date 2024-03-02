@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Relays")(type "KiCad")(uri "${KIPRJMOD}/custom-library/footprints/Relays.pretty")(options "")(descr ""))
+)
