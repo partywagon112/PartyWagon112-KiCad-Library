@@ -1,0 +1,9 @@
+[submodule "kicad-latest/symbols"]
+	path = kicad-latest/symbols
+	url = https://gitlab.com/kicad/libraries/kicad-symbols.git
+[submodule "kicad-latest/footprints"]
+	path = kicad-latest/footprints
+	url = https://gitlab.com/kicad/libraries/kicad-footprints.git
+[submodule "kicad-latest/3dmodels"]
+	path = kicad-latest/3dmodels
+	url = https://gitlab.com/kicad/libraries/kicad-packages3d.git
