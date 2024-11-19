@@ -17,12 +17,13 @@
     },
     "tags": [
         "footprint",
-        "library"
+        "library",
+        "symbols"
     ],
     "versions": [
         {
-            "version": "1.1",
-            "status": "stable",
+            "version": "1.52",
+            "status": "development",
             "kicad_version": "8.1"
         }
     ]
